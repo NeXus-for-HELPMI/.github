@@ -6,7 +6,9 @@ Therefore, our goal is to
 * Adopt [NeXus](https://www.nexusformat.org/) base classes for LPA experimental data, starting from the example above, aiming for a definition
 * Extend [openPMD](https://www.openpmd.org/#/start) for arbitrary hierarchies like NeXus, making the standards interoperable
 * Develop a glossary for LPA experiment data and infer the ontology, for automated validation and processing
-   * [Draft version (May 2024):](https://github.com/NeXus-for-HELPMI/Devices-Detectors-Components-Library)
+   * [NeXus-for-HELPMI/Devices-Detectors-Components-Library](https://github.com/NeXus-for-HELPMI/Devices-Detectors-Components-Library) is the glossary draft
+      * 1st release May 2024: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11143947.svg)](https://doi.org/10.5281/zenodo.11143947)
+
 
 Here is the playground for adapting NeXus for our needs.
 
