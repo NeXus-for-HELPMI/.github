@@ -3,10 +3,10 @@
 HELPMI (HElmholtz Laser-Plasma Metadata Initiative) is a 2 year project of GSI, HI-Jena and HZDR, funded by the Helmholtz Metadata Collaboration, which addresses the problem that no data standard exists for ultra-high intensity laser plasma experiments, hampering the FAIR principles and associated emerging benefits.
 
 Therefore, our goal is to
-* Adopt (NeXus)[https://www.nexusformat.org/] base classes for LPA experimental data, starting from the example above, aiming for a definition
-* Extend (openPMD)[https://www.openpmd.org/#/start] for arbitrary hierarchies like NeXus, making the standards interoperable
+* Adopt [NeXus](https://www.nexusformat.org/) base classes for LPA experimental data, starting from the example above, aiming for a definition
+* Extend [openPMD](https://www.openpmd.org/#/start) for arbitrary hierarchies like NeXus, making the standards interoperable
 * Develop a glossary for LPA experiment data and infer the ontology, for automated validation and processing
-   * (draft version (May 2024):)[https://github.com/NeXus-for-HELPMI/Devices-Detectors-Components-Library]
+   * [Draft version (May 2024):](https://github.com/NeXus-for-HELPMI/Devices-Detectors-Components-Library)
 
 Here is the playground for adapting NeXus for our needs.
 
